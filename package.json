@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "main": "./StaticContainer",
-  "name": "@cross2d/static-container",
+  "name": "@cross2d/react-web-static-container",
   "scripts": {
     "release": "npm publish --access public"
   },
